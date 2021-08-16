@@ -1,1 +1,4 @@
 1) Jupytor Notebook
+2) Python3
+3) Flask
+4) Notepad++ for HTML5
